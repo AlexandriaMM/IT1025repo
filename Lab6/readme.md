@@ -6,8 +6,9 @@ stuff
 
 ## 1. IP and ICANN
 a.) What is an IP address and what is the difference between IPv4 and IPv6?
-
-b.) Screenshot in Lab6
+    IP addresses are the numbers assigned to computer network interfaces. Data packets are sent to IP addresses to ensure packets are recieved at desired place. IPv4 addresses are written as a string of four numbers between 0 and 255, separated by dots (ex: 192.0.2.53) while IPv6 addresses are considerably longer strings of numbers using hexadecimal to fit more information into fewer digits. Colons separate the segments of IPv6 addresses instead of dots (ex: 2001:0db8::::53). The main difference between IPv4 and IPv6 seems to be the available address space- IPv4 is a small limited pool of addresses compared to IPv6 which has 340 undecillion addresses.
+    
+b.) Screenshot in Lab6 folder
 
 c.) What is ICANN and how does the organization contribute to the global internet?
 
