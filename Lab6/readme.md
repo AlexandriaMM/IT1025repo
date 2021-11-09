@@ -30,7 +30,7 @@ a.) Why are layers important to changing technology? <br>
 <br><br>
 
 ## 4. Application Layer
-b.) What types of applications run on the "application" layer?
+b.) What types of applications run on the "application" layer? <br>
     SMTP, FTP, HTTP, POP3, IMAP4, SNMP
 
 <br><br>
@@ -39,7 +39,7 @@ b.) What types of applications run on the "application" layer?
 a.) Explain what HTTP is and how does it support the client-server model? <br>
     HTTP stands for Hypertext Transfer Protocol and is the protocol that is used for viewing web pages so a client sends a web address through a web browser and uses HTTP to retrieve the web page.
 
-b.) Explain the protocols that secure HTTP uses to protect data?
+b.) Explain the protocols that secure HTTP uses to protect data? <br>
     HTTPS or Secure Hypertext Transfer Protocol Encrypts the data (using encryption algorithms) that is being retrieved by HTTP
 
 <br><br>
