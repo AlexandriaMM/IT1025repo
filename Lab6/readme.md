@@ -4,7 +4,7 @@
 stuff
 <br><br>
 
-## 1. Internet Protocol
+## 1. IP and ICANN
 a.) What is an IP address and what is the difference between IPv4 and IPv6?
 
 b.) Screenshot in Lab6
