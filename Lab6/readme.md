@@ -40,7 +40,7 @@ a.) Explain what HTTP is and how does it support the client-server model? <br>
     HTTP stands for Hypertext Transfer Protocol and is the protocol that is used for viewing web pages so a client sends a web address through a web browser and uses HTTP to retrieve the web page.
 
 b.) Explain the protocols that secure HTTP uses to protect data? <br>
-    HTTPS or Secure Hypertext Transfer Protocol Encrypts the data (using encryption algorithms) that is being retrieved by HTTP
+    HTTPS or Secure Hypertext Transfer Protocol Encrypts the data (using encryption algorithms) that is being retrieved by HTTP. HTTP protects data by using the SSL protocol. SSL (Secure Sockets Layer) uses public key encryption to secure data meaning that an SSL certificate is used to authenticate the identity of a website (checks if website is trustworthy. The other protocol used called TLS (Transport Layer Security) and is the successor to SSL. Like SSL, TLS authenticates the server, client, and encrypts the data. 
 
 <br><br>
 
