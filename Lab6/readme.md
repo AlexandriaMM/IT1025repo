@@ -20,7 +20,7 @@ a.) What is the responsibility of TCP/IP?
     TCP/IP's responsibility is to ensure that each computer or device in a network has a unique IP address.
     
 b.) explain how the client-server model applies to TCP/IP
-    The "Client" in a TCP/IP connection is a computer or device that sends a request while the "Server" is the computer listening for the request. The Client must know the IP Address of whatever Server it wants to connect to and it also must know the port number that wants to send and receive data. Once the connection through TCP/IP port has been established between client and server, data can be sent in either direction. 
+    The "Client" in a TCP/IP connection is a computer or device that sends a request while the "Server" is the computer listening for the request. The Client must know the IP Address of whatever Server it wants to connect to and it also must know the port number that wants to send and receive data. Once the connection through TCP/IP port has been established between client and server, data can be sent in either direction. The connection remains open until client or server terminates the connection.
 
 <br><br>
 
