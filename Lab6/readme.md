@@ -7,7 +7,7 @@ stuff
 ## 1. Internet Protocol
 a.) What is an IP address and what is the difference between IPv4 and IPv6?
 
-b.)Screenshot in Lab6
+b.) Screenshot in Lab6
 
 c.) What is ICANN and how does the organization contribute to the global internet?
 
@@ -43,5 +43,5 @@ b.) Explain one of the risks described in this article:
 ## 6. World Wide Web Consortium
 a.) Who was Tim Berners-Lee and why did he create the W3C?
 
-b.)Pick a standard of your choice and explain why it is important:
+b.) Pick a standard of your choice and explain why it is important:
 
