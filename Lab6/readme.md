@@ -24,27 +24,33 @@ b.) explain how the client-server model applies to TCP/IP
 
 <br><br>
 
-## 3. Application Layers
+## 3. Layers
 a.) Why are layers important to changing technology?
+    It is important to have layers so that tasks can be changed without affecting the other layers.
+<br><br>
 
+## 4. Application Layer
 b.) What types of applications run on the "application" layer?
+    SMTP, FTP, HTTP, POP3, IMAP4, SNMP
 
 <br><br>
 
-## 4. HTTP, HTTPS, SSL/TLS
+## 5. HTTP and Client-Server Model
 a.) Explain what HTTP is and how does it support the client-server model?
+    HTTP stands for Hypertext Transfer Protocol and is the protocol that is used for viewing web pages so a client sends a web address through a web browser and uses HTTP to retrieve the web page.
 
 b.) Explain the protocols that secure HTTP uses to protect data?
+    HTTPS or Secure Hypertext Transfer Protocol Encrypts the data (using encryption algorithms) that is being retrieved by HTTP
 
 <br><br>
 
-## 5. Securing your Web Browser
+## 6. Securing your Web Browser
 a.) Why should you secure your web browser?
 
 b.) Explain one of the risks described in this article:
 
 <br><br>
-## 6. World Wide Web Consortium
+## 7. World Wide Web Consortium
 a.) Who was Tim Berners-Lee and why did he create the W3C?
 
 b.) Pick a standard of your choice and explain why it is important:
