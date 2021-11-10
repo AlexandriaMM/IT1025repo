@@ -46,12 +46,16 @@ b.) Explain the protocols that secure HTTP uses to protect data? <br>
 
 ## 6. Securing your Web Browser
 a.) Why should you secure your web browser? <br>
+    It's important to secure my web browser because there are increasing threats from software attacks that take advantage of vulnerable web browsers. Often the default settings on web browsers often are not the most secure settings.
 
 b.) Explain one of the risks described in this article: <br>
+    Cross-Site Scripting (XSS) is a vulnerability in web applications that allows a hacker to inject client-side scripts into web pages viewed by other users 
 
 <br><br>
 ## 7. World Wide Web Consortium
 a.) Who was Tim Berners-Lee and why did he create the W3C? <br>
+    Tim Berners-Lee is the leader of W3C and is also the inventor of the world web. W3C was created to the lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web.
 
 b.) Pick a standard of your choice and explain why it is important: <br>
+    HTML & CSS are important as they are the core technologies for build Web pages. HTML provides the structure of the page using markup while CSS describes the page layout or presentation for a variety of devices. 
 
