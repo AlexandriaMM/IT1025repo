@@ -1,7 +1,7 @@
 #Alexandria Macko-Millard 11/9/2021
 
 ## Executive Summary
-stuff
+The purpose of Lab 6 is to teach students the foundational concepts of the World Wide Web including IP addresses, security protocols, layering, and Web standards.
 <br><br>
 
 ## 1. IP and ICANN
