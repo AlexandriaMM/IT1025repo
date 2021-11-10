@@ -50,7 +50,7 @@ a.) Why should you secure your web browser? <br>
 
 b.) Explain one of the risks described in this article: <br>
     Cross-Site Scripting (XSS) is a vulnerability in web applications that allows a hacker to inject client-side scripts into web pages viewed by other users 
-
+    
 <br><br>
 ## 7. World Wide Web Consortium
 a.) Who was Tim Berners-Lee and why did he create the W3C? <br>
@@ -58,4 +58,8 @@ a.) Who was Tim Berners-Lee and why did he create the W3C? <br>
 
 b.) Pick a standard of your choice and explain why it is important: <br>
     HTML & CSS are important as they are the core technologies for build Web pages. HTML provides the structure of the page using markup while CSS describes the page layout or presentation for a variety of devices. 
+
+<br><br>
+## Conclusion
+The articles and videos attached helped me to learn about fundamental networking concepts I did not fully understand including the process of a client-server interaction using TCP/IP. Though I've been familiarized with certain standards I did not know about the companies that actually set the standards such as ICANN and W3C.
 
