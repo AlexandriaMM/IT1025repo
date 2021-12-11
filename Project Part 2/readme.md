@@ -1,4 +1,4 @@
-# Alexandria Macko-Millard 12/10/2021
+## Alexandria Macko-Millard 12/10/2021
 
 <h3> Executive Summary </h3>
 The purpose of my final project part 2, research paper (see attached PDF), is to inform the reader on the four pillars of object-oriented programming
